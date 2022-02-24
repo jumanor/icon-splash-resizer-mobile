@@ -10,7 +10,7 @@ Run the following command:
     npm install
 
 ## Usage
-This tool needs **icon.png** and **splash.png** 
+This tool needs **icon.png** and **splash.png** inside **/icon-splash-resizer-mobile** folder
 
     npm start
     
