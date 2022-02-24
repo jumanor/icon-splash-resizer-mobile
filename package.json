@@ -1,0 +1,21 @@
+{
+  "name": "icon-splash-resizer",
+  "version": "0.0.2",
+  "dependencies": {
+    "imagemagick": "^0.1.3",
+    "wrench": "^1.5.9"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "scripts": {
+    "start": "node crearImages.js"
+  },
+  "devDependencies": {
+    "gulp-task-listing": "^1.0.1"
+  },
+  "description": "icon and splash resizer Android and iOS",
+  "main": "crearImages.js",
+  "author": "jumanor",
+  "license": "ISC"
+}
